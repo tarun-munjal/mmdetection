@@ -1,52 +1,39 @@
+import mmcv
 import numpy as np
 import torch
 
 
-def bbox_flip(bboxes, img_shape, direction='horizontal'):
-    """Flip bboxes horizontally or vertically.
+def bbox_flip(bboxes, img_shape):
+    """Flip bboxes horizontally.
 
     Args:
-        bboxes (Tensor): Shape (..., 4*k)
-        img_shape (tuple): Image shape.
-        direction (str): Flip direction, options are "horizontal" and
-            "vertical". Default: "horizontal"
-
+        bboxes(Tensor or ndarray): Shape (..., 4*k)
+        img_shape(tuple): Image shape.
 
     Returns:
-        Tensor: Flipped bboxes.
+        Same type as `bboxes`: Flipped bboxes.
     """
-    assert bboxes.shape[-1] % 4 == 0
-    assert direction in ['horizontal', 'vertical']
-    flipped = bboxes.clone()
-    if direction == 'vertical':
-        flipped[..., 1::4] = img_shape[0] - bboxes[..., 3::4]
-        flipped[..., 3::4] = img_shape[0] - bboxes[..., 1::4]
-    else:
+    if isinstance(bboxes, torch.Tensor):
+        assert bboxes.shape[-1] % 4 == 0
+        flipped = bboxes.clone()
         flipped[:, 0::4] = img_shape[1] - bboxes[:, 2::4]
         flipped[:, 2::4] = img_shape[1] - bboxes[:, 0::4]
-    return flipped
+        return flipped
+    elif isinstance(bboxes, np.ndarray):
+        return mmcv.bbox_flip(bboxes, img_shape)
 
 
-def bbox_mapping(bboxes,
-                 img_shape,
-                 scale_factor,
-                 flip,
-                 flip_direction='horizontal'):
+def bbox_mapping(bboxes, img_shape, scale_factor, flip):
     """Map bboxes from the original image scale to testing scale"""
     new_bboxes = bboxes * bboxes.new_tensor(scale_factor)
     if flip:
-        new_bboxes = bbox_flip(new_bboxes, img_shape, flip_direction)
+        new_bboxes = bbox_flip(new_bboxes, img_shape)
     return new_bboxes
 
 
-def bbox_mapping_back(bboxes,
-                      img_shape,
-                      scale_factor,
-                      flip,
-                      flip_direction='horizontal'):
+def bbox_mapping_back(bboxes, img_shape, scale_factor, flip):
     """Map bboxes from testing scale to original image scale"""
-    new_bboxes = bbox_flip(bboxes, img_shape,
-                           flip_direction) if flip else bboxes
+    new_bboxes = bbox_flip(bboxes, img_shape) if flip else bboxes
     new_bboxes = new_bboxes.view(-1, 4) / new_bboxes.new_tensor(scale_factor)
     return new_bboxes.view(bboxes.shape)
 

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ucla_7</folder>
+	<filename>ocr_UCLALA8_20_frame_23_4.png</filename>
+	<path>/home/noopurakul/Downloads/reid/ucla_7/ocr_UCLALA8_20_frame_23_4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>80</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>25</ymin>
+			<xmax>40</xmax>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+</annotation>

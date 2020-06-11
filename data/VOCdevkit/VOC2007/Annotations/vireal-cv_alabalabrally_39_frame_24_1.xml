@@ -1,0 +1,26 @@
+<annotation>
+	<folder>alab_4</folder>
+	<filename>vireal-cv_alabalabrally_39_frame_24_1.png</filename>
+	<path>/home/noopurakul/Downloads/reid/alab_4/vireal-cv_alabalabrally_39_frame_24_1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>88</width>
+		<height>202</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>66</ymin>
+			<xmax>47</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>

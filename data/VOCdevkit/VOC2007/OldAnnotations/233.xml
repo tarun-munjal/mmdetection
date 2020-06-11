@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ucla_7</folder>
+	<filename>ocr_output_5_frame_17_9.png</filename>
+	<path>/home/noopurakul/Downloads/reid/ucla_7/ocr_output_5_frame_17_9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>82</width>
+		<height>142</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>38</ymin>
+			<xmax>59</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+</annotation>

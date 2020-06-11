@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stan_2</folder>
+	<filename>vireal-cv_alabalabrally_44_frame_3_10.png</filename>
+	<path>/home/joshi/alab_id/stan_2/vireal-cv_alabalabrally_44_frame_3_10.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>87</width>
+		<height>214</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>41</ymin>
+			<xmax>63</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+</annotation>

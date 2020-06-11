@@ -1,0 +1,26 @@
+<annotation>
+	<folder>STAN_6</folder>
+	<filename>1_1_8_frame_3_6.png</filename>
+	<path>/home/ankit/disk/spordia/ocr/data/stan_alab/STAN_6/1_1_8_frame_3_6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>76</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>45</ymin>
+			<xmax>58</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

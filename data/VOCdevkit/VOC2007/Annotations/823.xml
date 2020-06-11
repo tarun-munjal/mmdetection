@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ARIZ_4</folder>
+	<filename>courtA_arizona4_17_frame_29_9.png</filename>
+	<path>/home/ankit/disk/spordia/vireal-cv/jersey_number_recognition/test_dataset_singles/stan_arizona/ARIZ_4/courtA_arizona4_17_frame_29_9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>66</width>
+		<height>140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>29</ymin>
+			<xmax>39</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+</annotation>

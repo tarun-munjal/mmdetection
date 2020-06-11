@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stan_9</folder>
+	<filename>ocr_output_12_frame_19_4.png</filename>
+	<path>/home/noopurakul/Downloads/reid/stan_9/ocr_output_12_frame_19_4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>125</width>
+		<height>135</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>23</ymin>
+			<xmax>90</xmax>
+			<ymax>36</ymax>
+		</bndbox>
+	</object>
+</annotation>

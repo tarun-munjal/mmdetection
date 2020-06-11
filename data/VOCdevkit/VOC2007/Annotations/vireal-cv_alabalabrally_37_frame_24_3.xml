@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stan_3</folder>
+	<filename>vireal-cv_alabalabrally_37_frame_24_3.png</filename>
+	<path>/home/noopurakul/Downloads/reid/stan_3/vireal-cv_alabalabrally_37_frame_24_3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>89</width>
+		<height>187</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>35</ymin>
+			<xmax>44</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+</annotation>

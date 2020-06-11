@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>vireal-cv_alabalabrally_8_frame_6_5.png</filename>
+	<path>/home/rootuser/Downloads/tarun_idfolder/5/vireal-cv_alabalabrally_8_frame_6_5.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>69</width>
+		<height>152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>120</ymin>
+			<xmax>35</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

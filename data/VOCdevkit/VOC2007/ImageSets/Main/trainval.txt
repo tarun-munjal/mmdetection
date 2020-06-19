@@ -1826,7 +1826,6 @@ westvir2_westvir2_5_frame_9_3
 oregon3_oregon3_7_frame_10_3
 arizona9_arizona9_2_frame_25_8
 westvir7_westvir7_6_frame_34_11
-westvir9_westvir9_0_frame_14_7
 duke2_duke2_17_frame_27_6
 duke2_duke2_8_frame_11_9
 alab4_alab4_14_frame_18_8

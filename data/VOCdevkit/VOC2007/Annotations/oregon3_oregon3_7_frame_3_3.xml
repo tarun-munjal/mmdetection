@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>oregon3_oregon3_7_frame_3_3.png</filename>
+	<path>/home/rootuser/Downloads/Clips/Imgs/oregon3/3/oregon3_oregon3_7_frame_3_3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>75</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>25</ymin>
+			<xmax>52</xmax>
+			<ymax>45</ymax>
+		</bndbox>
+	</object>
+</annotation>

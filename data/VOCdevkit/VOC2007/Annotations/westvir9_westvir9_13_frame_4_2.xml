@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>westvir9_westvir9_13_frame_4_2.png</filename>
+	<path>/home/rootuser/Downloads/Clips/Imgs/westvir9/2/westvir9_westvir9_13_frame_4_2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>147</width>
+		<height>135</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>30</ymin>
+			<xmax>105</xmax>
+			<ymax>45</ymax>
+		</bndbox>
+	</object>
+</annotation>

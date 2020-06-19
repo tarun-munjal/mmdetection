@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11</folder>
+	<filename>arizona9_arizona9_3_frame_15_11.png</filename>
+	<path>/home/rootuser/Downloads/Clips/Imgs/arizona9/11/arizona9_arizona9_3_frame_15_11.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>124</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>38</ymin>
+			<xmax>73</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

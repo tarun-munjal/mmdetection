@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11</folder>
+	<filename>duke1_duke1_6_frame_17_11.png</filename>
+	<path>/home/rootuser/Downloads/Clips/Imgs/duke1/11/duke1_duke1_6_frame_17_11.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>61</width>
+		<height>235</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>84</ymin>
+			<xmax>39</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

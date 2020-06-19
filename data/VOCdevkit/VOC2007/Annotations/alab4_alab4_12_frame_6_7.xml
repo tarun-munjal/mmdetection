@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7</folder>
+	<filename>alab4_alab4_12_frame_6_7.png</filename>
+	<path>/home/rootuser/Downloads/Clips/Imgs/alab4/7/alab4_alab4_12_frame_6_7.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>57</width>
+		<height>201</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>42</ymin>
+			<xmax>47</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

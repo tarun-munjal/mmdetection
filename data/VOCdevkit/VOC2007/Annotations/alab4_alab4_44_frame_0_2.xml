@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>alab4_alab4_44_frame_0_2.png</filename>
+	<path>/home/rootuser/Downloads/Clips/Imgs/alab4/2/alab4_alab4_44_frame_0_2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>117</width>
+		<height>174</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>36</ymin>
+			<xmax>67</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

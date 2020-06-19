@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>oregon3_oregon3_4_frame_14_1.png</filename>
+	<path>/home/rootuser/Downloads/Clips/Imgs/oregon3/1/oregon3_oregon3_4_frame_14_1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>63</width>
+		<height>148</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>45</ymin>
+			<xmax>39</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

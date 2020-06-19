@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4</folder>
+	<filename>LA9_LA9_6_frame_2_4.png</filename>
+	<path>/home/rootuser/Downloads/Clips/Imgs/LA9/4/LA9_LA9_6_frame_2_4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>93</width>
+		<height>167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>51</ymin>
+			<xmax>45</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>

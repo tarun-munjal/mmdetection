@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11</folder>
+	<filename>westvir8_westvir8_2_frame_21_11.png</filename>
+	<path>/home/rootuser/Downloads/Clips/Imgs/westvir8/11/westvir8_westvir8_2_frame_21_11.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>102</width>
+		<height>124</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>34</ymin>
+			<xmax>56</xmax>
+			<ymax>42</ymax>
+		</bndbox>
+	</object>
+</annotation>

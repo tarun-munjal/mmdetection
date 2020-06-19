@@ -1,4 +1,4 @@
-	model = dict(
+model = dict(
     type='FasterRCNN',
     pretrained='torchvision://resnet50',
     backbone=dict(

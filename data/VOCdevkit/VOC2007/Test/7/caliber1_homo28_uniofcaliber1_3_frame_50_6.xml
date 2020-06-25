@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6</folder>
+	<filename>caliber1_homo28_uniofcaliber1_3_frame_50_6.png</filename>
+	<path>/home/rootuser/Downloads/Imges/caliber1/id_folder/6/caliber1_homo28_uniofcaliber1_3_frame_50_6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>71</width>
+		<height>182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>35</ymin>
+			<xmax>54</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>

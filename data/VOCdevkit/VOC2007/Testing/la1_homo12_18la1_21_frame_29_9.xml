@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9</folder>
+	<filename>la1_homo12_18la1_21_frame_29_9.png</filename>
+	<path>/home/rootuser/Downloads/Imges/la1/id_folder/9/la1_homo12_18la1_21_frame_29_9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>63</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>77</ymin>
+			<xmax>60</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>

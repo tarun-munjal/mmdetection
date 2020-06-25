@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>col1_homo20_col1_5_frame_2_1.png</filename>
+	<path>/home/rootuser/Downloads/Imges/col1/1/col1_homo20_col1_5_frame_2_1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>75</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>28</ymin>
+			<xmax>35</xmax>
+			<ymax>42</ymax>
+		</bndbox>
+	</object>
+</annotation>

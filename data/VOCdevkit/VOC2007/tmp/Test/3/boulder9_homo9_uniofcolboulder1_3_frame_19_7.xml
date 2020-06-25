@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7</folder>
+	<filename>boulder9_homo9_uniofcolboulder1_3_frame_19_7.png</filename>
+	<path>/home/rootuser/Downloads/Imges/boulder1/id_folder/7/boulder9_homo9_uniofcolboulder1_3_frame_19_7.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>73</width>
+		<height>164</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>30</ymin>
+			<xmax>36</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+</annotation>

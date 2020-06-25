@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11</folder>
+	<filename>arizonas1_homo15_18arizonastate1_6_frame_3_11.png</filename>
+	<path>/home/rootuser/Downloads/Imges/arizonas1/id_folder/11/arizonas1_homo15_18arizonastate1_6_frame_3_11.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>108</width>
+		<height>208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>42</ymin>
+			<xmax>82</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

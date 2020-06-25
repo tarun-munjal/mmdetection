@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>oregon_homo10_oregonstate1_3_frame_27_1.png</filename>
+	<path>/home/rootuser/Downloads/Imges/oregon/id_folder/1/oregon_homo10_oregonstate1_3_frame_27_1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>104</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>33</ymin>
+			<xmax>44</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

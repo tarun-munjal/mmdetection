@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>la1_homo12_18la1_18_frame_11_3.png</filename>
+	<path>/home/rootuser/Downloads/Imges/la1/id_folder/3/la1_homo12_18la1_18_frame_11_3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>22</ymin>
+			<xmax>39</xmax>
+			<ymax>37</ymax>
+		</bndbox>
+	</object>
+</annotation>

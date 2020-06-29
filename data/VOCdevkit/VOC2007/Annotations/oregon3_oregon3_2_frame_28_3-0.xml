@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ToRotateJPG</folder>
+	<filename>oregon3_oregon3_2_frame_28_3-0.jpg</filename>
+	<path>/home/rootuser/ToRotateJPG/oregon3_oregon3_2_frame_28_3-0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>82</width>
+		<height>157</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>27</ymin>
+			<xmax>49</xmax>
+			<ymax>45</ymax>
+		</bndbox>
+	</object>
+</annotation>

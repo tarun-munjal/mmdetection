@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ToRotateJPG</folder>
+	<filename>LA9_LA9_12_frame_8_11-60.jpg</filename>
+	<path>/home/rootuser/ToRotateJPG/LA9_LA9_12_frame_8_11-60.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>79</width>
+		<height>165</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>57</ymin>
+			<xmax>17</xmax>
+			<ymax>70</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ToRotateJPG</folder>
+	<filename>Images_washington_0_frame_0_3--70.jpg</filename>
+	<path>/home/rootuser/ToRotateJPG/Images_washington_0_frame_0_3--70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>114</width>
+		<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>63</ymin>
+			<xmax>108</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>

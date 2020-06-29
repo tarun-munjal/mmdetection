@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ToRotateJPG</folder>
+	<filename>Images_nebraska_6_frame_53_1--80.jpg</filename>
+	<path>/home/rootuser/ToRotateJPG/Images_nebraska_6_frame_53_1--80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>58</width>
+		<height>135</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>51</ymin>
+			<xmax>58</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

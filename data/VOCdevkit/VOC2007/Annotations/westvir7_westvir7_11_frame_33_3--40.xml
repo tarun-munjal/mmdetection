@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ToRotateJPG</folder>
+	<filename>westvir7_westvir7_11_frame_33_3--40.jpg</filename>
+	<path>/home/rootuser/ToRotateJPG/westvir7_westvir7_11_frame_33_3--40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>69</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>42</ymin>
+			<xmax>65</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

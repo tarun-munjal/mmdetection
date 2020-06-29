@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ToRotateJPG</folder>
+	<filename>arizona9_arizona9_0_frame_1_11-0.jpg</filename>
+	<path>/home/rootuser/ToRotateJPG/arizona9_arizona9_0_frame_1_11-0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>77</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>35</ymin>
+			<xmax>49</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+</annotation>

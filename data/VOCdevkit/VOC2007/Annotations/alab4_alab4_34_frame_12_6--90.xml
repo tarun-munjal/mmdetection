@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ToRotateJPG</folder>
+	<filename>alab4_alab4_34_frame_12_6--90.jpg</filename>
+	<path>/home/rootuser/ToRotateJPG/alab4_alab4_34_frame_12_6--90.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>126</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>59</ymin>
+			<xmax>110</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>

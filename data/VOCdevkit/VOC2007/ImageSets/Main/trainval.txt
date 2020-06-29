@@ -2749,7 +2749,6 @@ alab4_alab4_16_frame_16_6-30
 alab4_alab4_4_frame_10_2
 527
 westvir8_westvir8_5_frame_16_11
-vireal-cv_alabalabrally_10_frame_15_7
 vireal-cv_alabalabrally_32_frame_14_10
 vireal-cv_alabalabrally_18_frame_6_10
 westvir9_westvir9_8_frame_44_1-30

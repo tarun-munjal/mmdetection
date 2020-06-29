@@ -1940,7 +1940,6 @@ vireal-cv_alabalabrally_28_frame_13_11
 Images_washstate1_61_frame_12_4
 321
 vireal-cv_alabalabrally_11_frame_25_2
-vireal-cv_alabalabrally_8_frame_10_6
 Images_washstate1_42_frame_24_5
 Images_westvir_1_frame_8_11
 Images_washington_7_frame_17_7-20

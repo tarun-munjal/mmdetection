@@ -7,11 +7,11 @@ _base_ = [
     '../_base_/default_runtime.py'
 ]
 
-#faster RCNN
+# faster RCNN
 # model = dict(roi_head=dict(bbox_head=dict(num_classes=10)))
 
 #Retinanet
-model = dict(bbox_head=dict(num_classes=10))
+# model = dict(bbox_head=dict(num_classes=10))
 
 # optimizer
 

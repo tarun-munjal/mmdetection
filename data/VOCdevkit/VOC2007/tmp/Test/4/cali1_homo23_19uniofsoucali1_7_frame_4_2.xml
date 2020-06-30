@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>cali1_homo23_19uniofsoucali1_7_frame_4_2.png</filename>
+	<path>/home/rootuser/Downloads/Imges/cali1/id_folder/2/cali1_homo23_19uniofsoucali1_7_frame_4_2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>116</width>
+		<height>186</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>57</ymin>
+			<xmax>28</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>arizona1_homo22_arizona1_23_frame_26_1.png</filename>
+	<path>/home/rootuser/Downloads/Imges/arizona1/id_folder/1/arizona1_homo22_arizona1_23_frame_26_1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>98</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>31</ymin>
+			<xmax>53</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+</annotation>

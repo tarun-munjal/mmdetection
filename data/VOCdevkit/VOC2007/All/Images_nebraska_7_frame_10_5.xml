@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>Images_nebraska_7_frame_10_5.png</filename>
+	<path>/home/rootuser/Downloads/Test/Test_data_clips/Images/nebraska/id_folder/5/Images_nebraska_7_frame_10_5.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>84</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>41</ymin>
+			<xmax>52</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

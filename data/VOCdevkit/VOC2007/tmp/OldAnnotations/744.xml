@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OREG_8</folder>
+	<filename>courtA_1_6_frame_13_2.png</filename>
+	<path>/home/ankit/disk/spordia/vireal-cv/jersey_number_recognition/test_dataset_singles/stan_oregon/OREG_8/courtA_1_6_frame_13_2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>80</width>
+		<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>46</ymin>
+			<xmax>51</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

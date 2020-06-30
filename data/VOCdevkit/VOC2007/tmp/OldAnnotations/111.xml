@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ucla_4</folder>
+	<filename>ocr_UCLALA8_2_frame_24_12.png</filename>
+	<path>/home/noopurakul/Downloads/reid/ucla_4/ocr_UCLALA8_2_frame_24_12.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>78</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>31</ymin>
+			<xmax>50</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+</annotation>

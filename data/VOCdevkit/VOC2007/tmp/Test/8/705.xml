@@ -1,0 +1,26 @@
+<annotation>
+	<folder>STAN_8</folder>
+	<filename>courtA_1_0_frame_26_3.png</filename>
+	<path>/home/ankit/disk/spordia/vireal-cv/jersey_number_recognition/test_dataset_singles/stan_oregon/STAN_8/courtA_1_0_frame_26_3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>219</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>40</ymin>
+			<xmax>72</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

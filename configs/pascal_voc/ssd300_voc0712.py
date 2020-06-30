@@ -4,7 +4,7 @@ _base_ = [
 ]
 model = dict(
     bbox_head=dict(
-        num_classes=20, anchor_generator=dict(basesize_ratio_range=(0.2,
+        num_classes=10, anchor_generator=dict(basesize_ratio_range=(0.2,
                                                                     0.9))))
 # dataset settings
 dataset_type = 'VOCDataset'
@@ -30,7 +30,7 @@ train_pipeline = [
         min_crop_size=0.3),
     dict(type='Resize', img_scale=(300, 300), keep_ratio=False),
     dict(type='Normalize', **img_norm_cfg),
-    dict(type='RandomFlip', flip_ratio=0.5),
+    dict(type='RandomFlip', flip_ratio=0),
     dict(type='DefaultFormatBundle'),
     dict(type='Collect', keys=['img', 'gt_bboxes', 'gt_labels']),
 ]

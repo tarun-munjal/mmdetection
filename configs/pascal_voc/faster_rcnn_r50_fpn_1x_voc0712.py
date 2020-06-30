@@ -35,5 +35,5 @@ lr_config = dict(  # Learning rate scheduler config used to register LrUpdater h
     warmup='linear',  # The warmup policy, also support `exp` and `constant`.
     warmup_iters=500,  # The number of iterations for warmup
     warmup_ratio=0.001,  # The ratio of the starting learning rate used for warmup
-    step=[8, 11])  # Steps to decay the learning rate
+    step=[6])  # Steps to decay the learning rate
 total_epochs = 12  # Total epochs to train the model

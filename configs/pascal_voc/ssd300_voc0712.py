@@ -60,10 +60,10 @@ optimizer_config = dict()
 # learning policy
 lr_config = dict(
     policy='step',
-    warmup='linear',
-    warmup_iters=500,
-    warmup_ratio=0.001,
-    step=[16, 20])
-checkpoint_config = dict(interval=1)
+    # warmup='linear',
+    # warmup_iters=500,
+    # warmup_ratio=0.001,
+    step=[10])
+# checkpoint_config = dict(interval=1)
 # runtime settings
-total_epochs = 24
+total_epochs = 14

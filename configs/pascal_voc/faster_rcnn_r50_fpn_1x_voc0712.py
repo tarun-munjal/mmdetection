@@ -1,17 +1,14 @@
  
 _base_ = [
-    # '../_base_/models/faster_rcnn_r50_fpn.py',
+    '../_base_/models/faster_rcnn_r50_fpn.py',
 	# '../_base_/models/faster_rcnn_r50_caffe_c4.py',
-    '../_base_/models/retinanet_r50_fpn.py',
+    # '../_base_/models/retinanet_r50_fpn.py',
     '../_base_/datasets/voc0712.py',
     '../_base_/default_runtime.py'
 ]
 
-# faster RCNN
-# model = dict(roi_head=dict(bbox_head=dict(num_classes=10)))
+model = dict(roi_head=dict(bbox_head=dict(num_classes=10)))
 
-# Retinanet
-model = dict(bbox_head=dict(num_classes=10))
 
 # optimizer
 

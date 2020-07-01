@@ -50,8 +50,8 @@ test_pipeline = [
 data = dict(
     samples_per_gpu=8,
     workers_per_gpu=3,
-    train=dict(
-        type='RepeatDataset', times=10, dataset=dict(pipeline=train_pipeline)),
+    train=dict  (
+        type='RepeatDataset', times=1, dataset=dict(pipeline=train_pipeline)),
     val=dict(pipeline=test_pipeline),
     test=dict(pipeline=test_pipeline))
 # optimizer

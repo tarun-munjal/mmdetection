@@ -66,4 +66,5 @@ lr_config = dict(
     step=[12])
 # checkpoint_config = dict(interval=1)
 # runtime settings
+resume_from = "epoch_12.pth"
 total_epochs = 20

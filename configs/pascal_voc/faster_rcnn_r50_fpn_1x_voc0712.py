@@ -15,7 +15,7 @@ model = dict(roi_head=dict(bbox_head=dict(num_classes=10)))
 #Faster RCNN
 optimizer = dict(type='SGD', lr=0.001, momentum=0.9, weight_decay=0.0001)
 optimizer_config = dict(grad_clip=None)
-lr_config = dict(policy='step', step=[6])
-total_epochs = 6  # actual epoch = 4 * 3 = 12
+lr_config = dict(policy='step', step=[5])
+total_epochs = 15  # actual epoch = 4 * 3 = 12
 
 

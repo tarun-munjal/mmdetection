@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6_set</folder>
+	<filename>tarun_homo11_usc181_31_frame_22_2.png</filename>
+	<path>/home/ankit/disk/spordia/tarun/6_set/tarun_homo11_usc181_31_frame_22_2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>73</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>33</ymin>
+			<xmax>43</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+</annotation>
